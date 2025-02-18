@@ -1,0 +1,11 @@
+{
+  "name": "node_js",
+  "version": "1.0.0",
+  "description": "https://levelup.gitconnected.com/build-an-express-api-with-sequelize-cli-and-express-router-963b6e274561",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

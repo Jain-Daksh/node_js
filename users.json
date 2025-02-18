@@ -1,0 +1,14 @@
+[
+  {
+    "first_name": "admin",
+    "last_name": "admin",
+    "email": "admin@hotmail.com",
+    "gender": "Male",
+    "is_admin": "yes",
+    "mobile": "9878411045",
+    "role": "admin",
+    "password": "$2b$10$zyRm.R1hNX3WKQQgxSoU0O4MADeagRdjgyCtTDxTAUMaFvgaOqore",
+    "updated_at": "2023-07-06T05:06:13.419Z",
+    "created_at": "2023-07-06T05:06:13.419Z"
+  }
+]
